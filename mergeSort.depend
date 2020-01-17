@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1553846745 source:c:\project\c\mergesort\mergearray.c
+	<stdio.h>
+	<stdlib.h>
+
+1558063457 source:c:\project\c\mergesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"feedMonkey.h"
+
+1553846938 c:\project\c\mergesort\mergearray.c
+	<stdio.h>
+	<stdlib.h>
+
+1558002499 c:\project\c\mergesort\mergesortarray.h
+	<stdlib.h>
+
+1553849482 source:c:\project\c\mergesort\mergesortarray.c
+	"mergeSortArray.h"
+
+1558002619 source:c:\project\c\mergesort\mergesortpointer.c
+	"mergeSortPointer.h"
+
+1558002509 c:\project\c\mergesort\mergesortpointer.h
+	<stdlib.h>
+
+1558002515 c:\project\c\mergesort\pileofboex.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1556834094 source:c:\project\c\mergesort\pileofboex.c
+	"pileOfBoex.h"
+
+1558002714 source:c:\project\c\mergesort\feedmonkey.c
+	"feedMonkey.h"
+
+1558063489 c:\project\c\mergesort\feedmonkey.h
+	<stdio.h>
+
